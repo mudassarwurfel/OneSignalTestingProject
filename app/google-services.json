@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "54570114457",
+    "firebase_url": "https://my-first-poroject.firebaseio.com",
+    "project_id": "my-first-poroject",
+    "storage_bucket": "my-first-poroject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54570114457:android:6f68c46161faab80",
+        "android_client_info": {
+          "package_name": "mudasir.com.onesignaltestingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54570114457-p4sa3ugc4akruclho3nbnhju94f3ulkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZYQXQlTUOCDKKxotWSMrEnw0HjntH9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
