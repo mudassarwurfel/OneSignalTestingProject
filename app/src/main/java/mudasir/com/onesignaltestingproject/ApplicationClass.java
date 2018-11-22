@@ -14,8 +14,7 @@ public class ApplicationClass extends Application {
         super.onCreate();
         //OneSignal.setLogLevel(OneSignal.LOG_LEVEL.DEBUG, OneSignal.LOG_LEVEL.DEBUG);
         // OneSignal Initialization
-        //root class
-        //another changes
+
         OneSignal.startInit(this)
                 .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
                 .unsubscribeWhenNotificationsAreDisabled(true)
