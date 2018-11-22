@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OneSignalTestingProject.iml" filepath="$PROJECT_DIR$/OneSignalTestingProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneSignalPullDemo.iml" filepath="$PROJECT_DIR$/OneSignalPullDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
